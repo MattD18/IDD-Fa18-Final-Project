@@ -9,9 +9,9 @@ Project Idea: A smart mirror that recognizes and logs the clothes you that you a
 
 Rough form: 
 
-![](https://github.com/MattD18/IDD-Fa18-Final-Project/blob/master/IMG_2466.JPG#fixorientation)
+![](https://github.com/MattD18/IDD-Fa18-Final-Project/blob/master/IMG_2466.JPG?fixOrientation)
 
-![](https://github.com/MattD18/IDD-Fa18-Final-Project/blob/master/IMG_2467.JPG#fixorientation)
+![](https://github.com/MattD18/IDD-Fa18-Final-Project/blob/master/IMG_2467.JPG?fixOrientation)
 
 Expected parts:  
   Wood Frame  
