@@ -2,7 +2,7 @@
 
 Project by Matthew Dalton
 
-Project Idea: A smart mirror that recognizes and logs the clothes you are wearing.
+Project Idea: A smart mirror that recognizes and logs the clothes you that you are wearing.
 
 
 ## Paper Prototype
