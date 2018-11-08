@@ -26,18 +26,22 @@ Interaction plan: The main points of interaction will be an accompanying website
 ## Working Prototype
  
 
-![](https://github.com/MattD18/IDD-Fa18-Final-Project/blob/master/IMG_2466.JPG)
+![](https://github.com/MattD18/IDD-Fa18-Final-Project/blob/master/IMG_2496.JPG)
 
-![](https://github.com/MattD18/IDD-Fa18-Final-Project/blob/master/IMG_2467.JPG)
+![](https://github.com/MattD18/IDD-Fa18-Final-Project/blob/master/IMG_2497.JPG)
 
 Demo:
 
+https://www.youtube.com/watch?v=Bk6jH73Patg
+
 Object Detection Pipeline:
+
+![](https://github.com/MattD18/IDD-Fa18-Final-Project/blob/master/ObjectDetection.ipynb)
 
 
 To Do:  
   Place mirror behind camera  
-  Train clothing recognition neural net
+  Train clothing recognition neural net  
   Design interatction/Create display 
 
  
