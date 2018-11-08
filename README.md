@@ -34,9 +34,8 @@ Demo:
 
 https://www.youtube.com/watch?v=Bk6jH73Patg
 
-Object Detection Pipeline:
 
-![](https://github.com/MattD18/IDD-Fa18-Final-Project/blob/master/ObjectDetection.ipynb)
+![Object Detection Pipeline](https://github.com/MattD18/IDD-Fa18-Final-Project/blob/master/ObjectDetection.ipynb)
 
 
 To Do:  
