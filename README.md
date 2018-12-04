@@ -45,11 +45,16 @@ To Do:
   
 ## Final Product: The Mood Mirror (Pivot!)
 
+The mood mirror augments your emotion with music tailored to your emotions. 
 
+Product Demo:
 
 https://youtu.be/kmvWjrv2Coo
 
+![State Diagram](https://github.com/MattD18/IDD-Fa18-Final-Project/blob/master/Screen%20Shot%202018-12-04%20at%2012.24.01%20AM.png)
 
 
- 
+![RPi Code](https://github.com/MattD18/IDD-Fa18-Final-Project/tree/master/moodMirror)
+
+
 
