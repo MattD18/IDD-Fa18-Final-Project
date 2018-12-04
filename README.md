@@ -42,6 +42,14 @@ To Do:
   Place mirror behind camera  
   Train clothing recognition neural net  
   Design interatction/Create display 
+  
+## Final Product: The Mood Mirror (Pivot!)
+
+
+
+https://youtu.be/kmvWjrv2Coo
+
+
 
  
 
